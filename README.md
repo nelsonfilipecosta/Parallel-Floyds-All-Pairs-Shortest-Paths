@@ -12,7 +12,7 @@ The theoretical parallel runtime of the algorithm is
 
 ![This is an image](https://github.com/nelsonfilipecosta/Parallel-Floyds-All-Pairs-Shortest-Paths/blob/main/Figures/parallel_runtime.png)
 
-The implementation of this algorithm was based on chapters 10 and 12 from the textboox
+The implementation of this algorithm was based on chapters 10 and 12 from the textbook
 
 > Kumar, V., Grama, A., Gupta, A. and Karypis, G. Introduction to parallel computing (Vol. 110). Redwood City, CA: Benjamin/Cummings, 1994.
 
