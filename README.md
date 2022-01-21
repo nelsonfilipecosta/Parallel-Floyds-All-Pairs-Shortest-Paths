@@ -1,5 +1,4 @@
 # Parallel Floyd's All-Pairs Shortest Paths
-
 Consider a weighted graph G, which consists of a set of nodes V and a set of edges E. An edge from node i to node j in E has a weight c_(i,j). Floyd's algorithm determines the cost d_(i,j) of the shortest path between each pair of nodes (i,j) in V. The cost of a path is the sum of the weights of the edges in the path. Let d^k_(i,j) be the minimum cost of a path from node i to node j, then the functional equation for this problem is
 
 ![This is an image](https://github.com/nelsonfilipecosta/Parallel-Floyds-All-Pairs-Shortest-Paths/blob/main/Figures/path_cost.png)
